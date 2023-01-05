@@ -29,6 +29,7 @@ So, here are the dumps for those CPLDs in order to replace them and perform a fu
 ## Files
 
 They can be in-system programmed using JTAG connector (except for U048), or externally using a compatible programmer.
+Prefix number on the filenames denotes the position of each device in the JTAG chain.
 
 | File | Position | CPLD Model | Dumped by | Tested by |
 | ---- | ---- | ---- | ---- | ---- |
